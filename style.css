@@ -1,0 +1,11 @@
+.finishbutton{
+    margin-top: 1rem;
+}
+h3{
+    font-weight: bold;
+}
+section{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    background-image: linear-gradient(to right top, #001fff, #0061ff, #0087ff, #00a7ff, #00c2ff, #00c2ff, #00c3ff, #00c3ff, #00a8ff, #0089ff, #0060ff, #5400ff);
+}
